@@ -1,6 +1,6 @@
 - 👋 Who am i
 
-  I'm Amitha. As a programmer spend most of my time infront of the screen 👀. While learning new stuff which i enjoy, trying to give back something to the society.
+  Beginner
   
 - 👀 What i'm interested in
 
