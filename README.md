@@ -1,10 +1,10 @@
 - 👋 Who am i
 
-  Beginner
+  Searching...
   
 - 👀 What i'm interested in
 
-  JavaScript, Cofee
+  JavaScript, Cofee, Programming
   
 - 🌱 What i’m currently learning
 
