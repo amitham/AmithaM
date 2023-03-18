@@ -12,7 +12,7 @@
 
 - 📫 How to reach me
 
-  Refer the follow me section in this site: https://katusatahan.com/
+  Refer the follow me section in this site: [https://katusatahan.com/](https://amitham.github.io/3dportfolio/)
 
 <!---
 amitham/amitham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
